@@ -1,4 +1,4 @@
 <?php
-
-echo "deneme bir iki üç ";
+ $ahmet ="deneme bir iki Ã¼Ã§";
+echo $ahmet;
 ?>
